@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="ClassTest">
+        <classes>
+            <class name="Phase_3.GET_Single_User"/>
+            <class name="Phase_3.Get_List_of_Users"/>
+            <class name="Phase_3.Create_User"/>
+            <class name="Phase_3.Update_User"/>
+            <class name="Phase_3.Delete_User"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
